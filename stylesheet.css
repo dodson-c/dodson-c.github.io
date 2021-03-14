@@ -43,5 +43,17 @@ li a:hover {
 }
 
 .active {
-  background-color: #4CAF50;
+  background-color: #00968F; /* 7716 C */
+}
+
+figure {
+  float: right;
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
 }
