@@ -5,7 +5,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 2;
-  background-color: #C7C9C7 /* 420 C */
+  background-color: #C7C9C7;
 }
 
 ul {
@@ -13,7 +13,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #4E5458;/*#333;*/ /* 10392 C */
 }
 
 .logo{
