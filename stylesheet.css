@@ -21,11 +21,11 @@ ul {
 	height: 10%;
 }
 
-li {
+menu_li {
   float: left;
 }
 
-li a {
+menu_li a {
   display: block;
   color: white;
   text-align: center;
@@ -34,7 +34,7 @@ li a {
 }
 
 /* Change the link color to #111 (black) on hover */
-li a:hover {
+menu_li a:hover {
   background-color: #111;
 }
 
@@ -87,4 +87,16 @@ figure {
     flex: 100%;
     max-width: 100%;
   }
+}
+
+.JustLTxtL {
+  justify-self: left;
+  align-self: start;
+  text-align: left;
+}
+
+.NoPadFlex {
+  padding-left: 0px;
+  display: flex;
+  flex-direction: column;
 }
