@@ -93,6 +93,14 @@ figure {
   justify-self: left;
   align-self: start;
   text-align: left;
+  max-width: 80%;
+}
+
+.JustLTxtC {
+  justify-self: left;
+  align-self: start;
+  text-align: center;
+  max-width: 80%;
 }
 
 .NoPadFlex {
