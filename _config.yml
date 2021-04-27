@@ -28,7 +28,7 @@ url: "https://www.optrescol.org" # the base hostname & protocol for your site, e
 github_username:  dodson-c
 
 # Build settings
-theme: neuromorphism
+#theme: neuromorphism
 plugins:
   - jekyll-feed
 include: ['_pages']
