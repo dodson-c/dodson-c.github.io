@@ -31,7 +31,7 @@ github_username:  dodson-c
 theme: neuromorphism
 plugins:
   - jekyll-feed
-# include: ['_pages']
+include: ['_pages']
 
 # Exclude from processing.
 # The following items will not be processed, by default.
