@@ -21,9 +21,7 @@
 title: Optical Research Collective
 email: cdodson@optrescol.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  We are a collective of scientists and engineers enabling low-cost, compact, and robust optical sensing platforms and computational tools. Our goal is to provide an inclusive environment for the development of researchers and their scientific pursuits. We believe in a horizontal structure with all members holding equal voice. Research directions are to be developed independently by members with the support of the collective.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.optrescol.org" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -33,6 +31,7 @@ github_username:  dodson-c
 theme: neuromorphism
 plugins:
   - jekyll-feed
+# include: ['_pages']
 
 # Exclude from processing.
 # The following items will not be processed, by default.
